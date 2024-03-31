@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\tugaspr_modul3.props" />
+</Project>
